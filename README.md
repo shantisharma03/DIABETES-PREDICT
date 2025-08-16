@@ -1,1 +1,1 @@
-# DIABETES-PREDICT
+# machine learning
